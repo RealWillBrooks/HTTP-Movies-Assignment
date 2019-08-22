@@ -1,6 +1,7 @@
 # HTTP Movies - Stretch Assignment
 
-## Instructions
+## 
+Instructions
 
 - **Fork** this repository, then clone your fork.
 - Run `yarn` to download dependencies.
